@@ -5,4 +5,4 @@ This AI made for vehicles by me. For more information my YouTube channel: https:
 
 For tutorial: https://www.youtube.com/watch?v=EeeyRdUIpxc
 
-DOWNLOAD: https://www.mediafire.com/file/5rt0pj1i6eoe9b0/AI-for-3D-Autonomous-Driving-Systems.zip/file
+DOWNLOAD: https://www.mediafire.com/file/gukyd3cup9qf5d8/AI-for-3D-Autonomous-Driving-Systems.zip/file
